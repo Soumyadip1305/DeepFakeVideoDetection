@@ -80,8 +80,6 @@ REAL / FAKE
 
 ## 🎯 Future Improvements
 
-## 🎯 Future Improvements
-
 * Real-Time Webcam Detection
 * Audio Deepfake Detection
 * Cloud Deployment
@@ -89,6 +87,11 @@ REAL / FAKE
 * Enhanced UI/UX with a more modern, responsive, and visually appealing frontend design
 
 ---
+## 📖 Publication
+
+This project is based on our research paper **"RealReveal: Bringing Deepfake Detection to the Web with Advanced Machine Learning"**, published in the **Baghdad Science Journal**.
+
+The research presents a deep learning-based approach for DeepFake video detection using **InceptionV3** and **GRU** architectures, achieving **81.25% accuracy** on the DFDC dataset.
 
 ## 👨‍💻 Developed By
 
@@ -97,10 +100,34 @@ REAL / FAKE
 B.Tech in Information Technology
 JIS College of Engineering
 
+## 📖 Publication
+
+This project is based on our research paper **"RealReveal: Bringing Deepfake Detection to the Web with Advanced Machine Learning"**, published in the **Baghdad Science Journal**.
+
+The research presents a deep learning-based approach for DeepFake video detection using **InceptionV3** and **GRU** architectures, achieving **81.25% accuracy** on the DFDC dataset.
+
+---
+
+## 👨‍💻 Team
+
+* Soumyadip Saha
+* Md Dilshad Alam
+* Suraj Sarkar
+* Surajit Matia
+* Arani Mishra
+
+**Project Supervisor:** Mrs. Tanusree Saha
+
+Department of Information Technology
+JIS College of Engineering, Kalyani, West Bengal
+
+---
+
 ## 🙏 Acknowledgements
 
-Special thanks to my project teammates and faculty mentor for their guidance, support, and valuable contributions throughout the development of this project.
+We sincerely thank our project supervisor, **Mrs. Tanusree Saha**, and all team members for their guidance, support, and valuable contributions throughout the development and publication of this project.
 
 ---
 
 ⭐ If you found this project interesting, consider giving it a star!
+
