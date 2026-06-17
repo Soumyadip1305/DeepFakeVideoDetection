@@ -2,10 +2,6 @@
 
 > AI-powered deepfake video detection platform built with TensorFlow, OpenCV, InceptionV3, and GRU networks.
 
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE" width="900">
-</p>
-
 ## 🚀 About The Project
 
 RealReveal is a deep learning-based web application that detects manipulated (deepfake) videos by analyzing both visual and temporal patterns within video frames.
